@@ -39,3 +39,6 @@ A equação tem duas raízes reais e distintas:
 Raiz 1: 2.0
 Raiz 2: 1.0
 ```
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
